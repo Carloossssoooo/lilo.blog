@@ -1,7 +1,7 @@
 +++
 title = "Ein Blich hinter die Kulissen des Dählhölzli-Zoos"
 date = "2024-02-16"
-draft = true
+draft = false
 pinned = false
 +++
 <!--\[if !mso]>
