@@ -3,16 +3,19 @@ title = "Ein Blich hinter die Kulissen des Dählhölzli-Zoos"
 date = "2024-02-16"
 draft = false
 pinned = false
+description = "Auf den ersten Blick erscheint der Zoo Dählhölzli in Bern als ein Ort der Unterhaltung und Bildung, wo Familien mit lachenden Kindern Tiere bewundern. Doch im Tierpark existieren zwei verschiedene Welten: eine, die für die Öffentlichkeit bestimmt ist, und eine andere, die sich hinter den Kulissen verbirgt. Jeder Besucher erlebt die sorgfältig arrangierte Fassade mit den Gehegen vieler verschiedener Tiere, während im Hintergrund eine Welt der Pflege, Organisation und Verwaltung existiert, die verborgen bleibt. Wir, zwei Schüler des Gymnasiums Hofwil, haben durch eine Führung an einem Abend im Januar 2024 den Kontrast erkundet."
 +++
 {{<lead>}} Auf den ersten Blick erscheint der Zoo Dählhölzli in Bern als ein Ort der Unterhaltung und Bildung, wo Familien mit lachenden Kindern Tiere bewundern. Doch im Tierpark existieren zwei verschiedene Welten: eine, die für die Öffentlichkeit bestimmt ist, und eine andere, die sich hinter den Kulissen verbirgt. Jeder Besucher erlebt die sorgfältig arrangierte Fassade mit den Gehegen vieler verschiedener Tiere, während im Hintergrund eine Welt der Pflege, Organisation und Verwaltung existiert, die verborgen bleibt. Wir, zwei Schüler des Gymnasiums Hofwil, haben durch eine Führung an einem Abend im Januar 2024 den Kontrast erkundet. {{</lead>}}
 
 Charlie Gerl & Lionel Reusser
 
-![]()
+![Im Zoo Dählhölzi beobachten Familien gespannt, wie die Seehunde an ihnen vorbeischwimmen. (Quelle: www.tierparkverein.ch, 2023)](whatsapp-bild-2024-02-21-um-10.46.45_28de38cd.jpg)
 
 An einem winterlichen Freitagabend treffen wir uns mit einer Besuchergruppe auf einem Parkplatz vor dem Zoo Dählhölzli. Es ist kalt, windig und düster. Gespannt warten wir mit den anderen fünfzehn neugierigen Besuchern auf die Abend-Führung durch den Tierpark. Vendolin Uhr, eine junge, engagierte Zooführerin, empfängt uns herzlich und führt uns durch den Hintereingang ins Vivarium, wo die Führung beginnt. Im Inneren hört man die Affen kreischen und im Hintergrund Arbeitsgeräusche von Bauarbeitern. Da es warm ist, ziehen wir unsere Jacken aus und folgen Frau Uhr zum Totenkopfäffchen-Gehege.
 
 Vor der Führung waren wir schon einmal im Tierpark. Was uns damals als erstes ins Auge stiess, waren süsse Totenkopfäffchen, die glücklich in ihrem Gehege herumsprangen. Einige spielten miteinander oder rannten einander hinterher. Andere assen Salat und starrten uns interessiert an. Wir fragen uns, wie gut es diesen Tieren hier geht. Werden sie nicht von den Menschen gestresst? Haben sie genug Platz und Rückzugsmöglichkeiten? Das sehen wir uns in der Führung genauer an.
+
+![Ein Saimiri im Zoo Dählhölzli leckt gerade die Scheibe ab. 12.01.2024 (Quelle: L. Reusser, C. Gerl)](whatsapp-bild-2024-02-21-um-10.48.30_ec148198.jpg)
 
 ### Saimiri: die weibliche Affen-Chefin
 
@@ -44,6 +47,8 @@ Wir gehen weiter eine kleine Treppe hinauf und kommen in einen dunklen Raum mit 
 
 Das Dählhölzli besitzt einen grossen Raum, in dem Korallen gezüchtet werden. Diese werden in verschiedenen Becken gehalten, die unterschiedlich beleuchtet sind. Je nach Korallenart braucht es zudem andere Temperaturen, die konstant bleiben müssen.
 
+![Eine verbleichte Koralle aus dem Dählhölzli, die nur unter idealen Bedin-gungen gerettet werden kann. 12.01.2024 (Quelle: L. Reusser, C. Gerl)](whatsapp-bild-2024-02-21-um-10.49.58_ffb681c8.jpg)
+
 Jeden Tag muss eine Nährlösung in die Becken gegossen werden, damit die Korallen gut wachsen. Die Beachtung dieser Punkte ist elementar, damit die Korallen nicht an Korallenbleiche erkranken. In diesem Zustand verlieren sie alle Farbe, um letzte Kraft zu sparen, bevor sie sterben. Sie können sich wieder erholen. Wird jedoch zu lange gewartet, sterben sie ab. Wenn die Korallen erwachsen sind, werden sie entweder in ein Becken mit Fischen gesetzt oder an andere Zoos verkauft. 
 
 ### Zum Schluss eine kleine Überraschung
@@ -54,4 +59,4 @@ Abschliessend dürfen wir Klaus auf den Arm nehmen. Erstaunlicherweise ist die H
 
 Im Rahmen dieser Reportage haben wir erlebt, dass viele Anforderungen hinter den Kulissen erfüllt sein müssen, damit es den Tieren gut geht und die Besucher auch in Zukunft ein ungetrübtes Erlebnis im Zoo geniessen können. Die Besucher machen sich über viele Aspekte keine Gedanken, wie zum Beispiel, ob die Tiere genug Platz haben, dass es extra Küchen gibt, um den Tieren das Futter artgerecht zu präparieren, oder dass der Zoo eng mit der Wissenschaft zusammenarbeitet. Das alles wurde uns durch die Führung und das Gespräch mit der Kuratorin klar. Ab jetzt werden wir, wenn wir wieder in den Zoo gehen, eine ganz andere Sicht auf das komplexe Zusammenwirken haben.
 
-![Frau Meret Huwiler, Kuratorin des Dählhölzli-Zoos 18.12.2023 (Quelle: L.Reusser, C. Gerl)](whatsapp-bild-2024-01-22-um-11.24.40_c582aa94.jpg)
+![Frau Meret Huwiler, Kuratorin des Dählhölzli-Zoos 18.12.2023 (Quelle: L.Reusser, C. Gerl)](whatsapp-bild-2024-02-21-um-10.43.08_3fdf7b23.jpg)
