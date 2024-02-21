@@ -4,11 +4,9 @@ date = "2024-02-16"
 draft = false
 pinned = false
 +++
-
-
 {{<lead>}} Auf den ersten Blick erscheint der Zoo Dählhölzli in Bern als ein Ort der Unterhaltung und Bildung, wo Familien mit lachenden Kindern Tiere bewundern. Doch im Tierpark existieren zwei verschiedene Welten: eine, die für die Öffentlichkeit bestimmt ist, und eine andere, die sich hinter den Kulissen verbirgt. Jeder Besucher erlebt die sorgfältig arrangierte Fassade mit den Gehegen vieler verschiedener Tiere, während im Hintergrund eine Welt der Pflege, Organisation und Verwaltung existiert, die verborgen bleibt. Wir, zwei Schüler des Gymnasiums Hofwil, haben durch eine Führung an einem Abend im Januar 2024 den Kontrast erkundet. {{</lead>}}
 
-
+PEB
 
 Charlie Gerl & Lionel Reusser
 
@@ -16,7 +14,7 @@ An einem winterlichen Freitagabend treffen wir uns mit einer Besuchergruppe auf 
 
 Vor der Führung waren wir schon einmal im Tierpark. Was uns damals als erstes ins Auge stiess, waren süsse Totenkopfäffchen, die glücklich in ihrem Gehege herumsprangen. Einige spielten miteinander oder rannten einander hinterher. Andere assen Salat und starrten uns interessiert an. Wir fragen uns, wie gut es diesen Tieren hier geht. Werden sie nicht von den Menschen gestresst? Haben sie genug Platz und Rückzugsmöglichkeiten? Das sehen wir uns in der Führung genauer an.
 
-<!--\\[if gte vml 1]><v:shapetype
+<!--\\\[if gte vml 1]><v:shapetype
  id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
  <v:stroke joinstyle="miter"/>
  <v:path gradientshapeok="t" o:connecttype="rect"/>
@@ -98,30 +96,30 @@ Ym9hcmQvZHJhd2luZ3MvZHJhd2luZzEueG1sUEsBAi0AFAAGAAgAAAAhAJJ9h+AdBwAASSAAABoA
 AAAAAAAAAAAAAAAArgUAAGNsaXBib2FyZC90aGVtZS90aGVtZTEueG1sUEsBAi0AFAAGAAgAAAAh
 AJxmRkG7AAAAJAEAACoAAAAAAAAAAAAAAAAAAw0AAGNsaXBib2FyZC9kcmF3aW5ncy9fcmVscy9k
 cmF3aW5nMS54bWwucmVsc1BLBQYAAAAABQAFAGcBAAAGDgAAAAA=
-" fillcolor="white \\[3201]" stroked="f" strokeweight=".5pt">
+" fillcolor="white \\\[3201]" stroked="f" strokeweight=".5pt">
  <v:textbox>
-  <!\\[if !mso]>
+  <!\\\[if !mso]>
   <table cellpadding=0 cellspacing=0 width="100%">
    <tr>
-    <td><!\\[endif]>
+    <td><!\\\[endif]>
     <div>
     <p class=Textkrperunnummeriert align=left style='margin-right:14.15pt;
     text-align:left'><span style='font-size:9.0pt;font-family:"Helvetica Neue";
     mso-ansi-language:DE-CH;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></p>
     </div>
-    <!\\[if !mso]></td>
+    <!\\\[if !mso]></td>
    </tr>
   </table>
-  <!\\[endif]></v:textbox>
+  <!\\\[endif]></v:textbox>
  <w:wrap anchorx="margin"/>
-</v:shape><!\\[endif]--><!--\\[if !vml]-->
+</v:shape><!\\\[endif]--><!--\\\[if !vml]-->
 
 |     |                                                                                     |
 | --- | ----------------------------------------------------------------------------------- |
 |     |                                                                                     |
 |     | ![](file:///C:/Users/CHARLI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png) |
 
-<!--\\[endif]-->
+<!--\\\[endif]-->
 
 ### Saimiri: die weibliche Affen-Chefin
 
