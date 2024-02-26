@@ -48,7 +48,7 @@ Wie uns Frau Huwiler, die Kuratorin des Dählhölzlis berichtet, würde der Zoo 
 
 Die EAZA ist die «European Association of Zoos and Aquaria», ein Verband von Zoos und Aquarien in Europa. Ihr Hauptziel ist es, den Naturschutz durch Zusammenarbeit, Forschung und Bildung zu fördern. Mitglieder verpflichten sich zu hohen Standards in Tierpflege und Artenschutz. Der Verband koordiniert Zuchtprogramme für gefährdete Arten und unterstützt Naturschutzprojekte weltweit. Die Organisation trägt dazu bei, das Bewusstsein für Umweltfragen zu schärfen und die biologische Vielfalt zu erhalten.
 
-  {{</box>}}
+{{</box>}}
 
 Unsere Führung mit Frau Uhr geht weiter. Dabei geht es durch mehrere Räume, in denen normalerweise das Personal arbeitet, bis wir in einer Küche ankommen.
 
@@ -108,4 +108,4 @@ Im Rahmen dieser Reportage haben wir erlebt, dass viele Anforderungen hinter den
 
 Die 30-jährige Meret Huwiler ist eine der beiden Kuratorinnen des Zoos. Mit ihr haben wir das Interview zu unserer Reportage geführt. Sie kümmert sich um Tierbestand, Tierhaltung, Personal und Wohlbefinden der Tiere. Sie ist durch ein Schnuppern im Zoo Zürich auf die Idee gekommen, Kuratorin zu werden. Dabei hat sie erfahren, dass sie für diese Aufgabe Biologie studieren sollte. Während dieses Studiums arbeitete sie auch als Tierpflegerin im Papiliorama. Ihre Masterarbeit hat sie im Zoo Basel geschrieben.
 
-  {{</box>}}
+{{</box>}}
