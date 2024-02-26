@@ -36,7 +36,9 @@ Zur Sicherstellung der artgerechten Haltung gehört der Zoo Dählhölzli einem i
 
  
 
-*„Ich würde sagen, dass wir ein guter Zoo sind.“* (M. Huwiler)
+> *"Ich würde sagen, dass wir ein guter Zoo sind.“* 
+>
+> *Meret Huwiler*
 
  
 
@@ -58,9 +60,9 @@ Das Essen der Tiere wird vom Dählhölzli in eigenen Küchen zubereitet. Es gibt
 
  
 
-*«Wenn Tiere, zum Beispiel Rehe, in der Nähe überfahren werden, kommen sie auch*
-
-*in den Zoo.»* (V. Uhr)
+> *"Wenn Tiere, zum Beispiel Rehe, in der Nähe überfahren werden, kommen sie auch                                              in den Zoo."*
+>
+> Vendolin Uhr
 
  
 
